@@ -31,3 +31,7 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# AI agent related
+.agents/skills
+skills-lock.json
